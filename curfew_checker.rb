@@ -5,3 +5,5 @@ def curfew_checker(time)
     puts "You're Not in Trouble"
   end
 end
+
+curfew_checker
