@@ -1,4 +1,5 @@
 def curfew_checker(time)
+  time = gets.chomp
   if time == 11 && time > 11
     puts "You're in Trouble"
   else
